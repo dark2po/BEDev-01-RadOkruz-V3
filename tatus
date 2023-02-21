@@ -1,0 +1,48 @@
+[33mcommit ca9fef2aa7cc45a28573e1f6639ba31daf82e07a[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-nesto-novo[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature-nesto-novo[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: d91f7a4 1fc7081
+Author: Darko Pokrajac <darko.pokrajac@gmail.com>
+Date:   Mon Feb 20 23:51:46 2023 +0000
+
+    Merge branch 'feature-nesto-novo'
+
+[33mcommit d91f7a4aa9ea5f1080d4a61bfa27ddbeb913344f[m
+Author: Darko Pokrajac <darko.pokrajac@gmail.com>
+Date:   Mon Feb 20 23:41:50 2023 +0000
+
+    Novi Main commit
+
+[33mcommit 1fc70812e818ab3b2f3c2625c1c7b2940b94eebb[m
+Author: Darko Pokrajac <darko.pokrajac@gmail.com>
+Date:   Mon Feb 20 23:40:10 2023 +0000
+
+    Nesto novo commit
+
+[33mcommit 860a3d74051845b563b3315e9414ed0a632e7379[m
+Author: dark2po <124918215+dark2po@users.noreply.github.com>
+Date:   Tue Feb 21 00:18:11 2023 +0100
+
+    Cetvrti commit
+
+[33mcommit 7f31a396ae2153e540aca4fe11bf4f869956fe20[m
+Author: dark2po <124918215+dark2po@users.noreply.github.com>
+Date:   Tue Feb 21 00:11:13 2023 +0100
+
+    Create udaljena_kreacija.txt
+
+[33mcommit 846a70fea426c911202a4821dc60c7da1aa33401[m
+Author: Darko Pokrajac <darko.pokrajac@gmail.com>
+Date:   Mon Feb 20 21:55:03 2023 +0000
+
+    Drugi commit
+
+[33mcommit d9766fc4a5f2bb1d333f73ca0a28c077ff805eb8[m
+Author: Darko Pokrajac <darko.pokrajac@gmail.com>
+Date:   Mon Feb 20 21:38:25 2023 +0000
+
+    Prvi commit
+
+[33mcommit 98b090128533ce5909c814ef261c7da48948c8a5[m
+Author: Darko Pokrajac <darko.pokrajac@gmail.com>
+Date:   Mon Feb 20 20:28:38 2023 +0000
+
+    Inicijalni commit
